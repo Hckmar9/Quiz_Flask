@@ -1,0 +1,1 @@
+Aplicación en Python que contiene 5 preguntas, si no respondes correctamente la primera pregunta no podrás pasar a la siguiente fase, en cuanto termine el quiz, saldrá un mensaje de confirmación.
